@@ -1,0 +1,15 @@
+# ООП  -  Обьектно ориентированое  Програмирование
+# DRY -Don 'Repeat Yourself== не повтаряйся
+
+# class-чертеж,инструкция
+# class Car:
+#     wheels= 4 # Атрибут класса
+# self- сам обьект
+#     _init_ - конструктор
+#  def_init_(self,model,color):
+#         self.model=model-Атрибут обьекта
+#         self.model=model
+#         self.color=color
+#         self.year=2023
+#         paas-пропустить
+

@@ -5,8 +5,8 @@
 #         self.age=age
 #         self.is_married=is_married
 
-#     #№2
-#     def introduce_myself(self):
+# #     #№2
+# def introduce_myself(self):
 #         print(f"Full name:{self.fullname}")
 #         print(f"Age:{self.age}")
 #         print(f"is married:{self.is_married}")
